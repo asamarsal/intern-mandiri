@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News Mandiri</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_berita">Berita</string>
+    <string name="namasaya">Hallo, My name is Asa Marsal</string>
+    <string name="paragraf1">My hobby is playing game. I learn how to personal branding/personal identity and make my portfolio from the scratch</string>
+    <string name="paragraf2">My interest in web developer, android developer, UI/UX, Cyber Security and Graphic Design. I live at Yogyakarta, Indonesia</string>
+    <string name="paragraf3">You can check My Portfolio on : s.id/profilasamarsal</string>
+    <string name="paragraf4">Reach me : asamarsal@gmail.com</string>
+    <string name="beritaterkini">Berita Terkini</string>
+    <string name="mandirinews">Mandiri News</string>
+</resources>
